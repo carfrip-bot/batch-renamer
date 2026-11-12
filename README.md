@@ -3,6 +3,7 @@
 A desktop app written in Rust (GUI built with [egui](https://github.com/emilk/egui)) for renaming many files at once, built by reverse-engineering a more well-known tool that offered a limited free plan.
 Add files or folders, combine one or more **rules** (insert, replace, case, serialize, **numbering**, regular expressions, and more), and check the **preview** before renaming. The last rename can be undone, and rule sets can be saved as **presets**. The interface is available in English and Italian.
 
+<img width="1282" height="832" alt="batch_renamer_preview" src="https://github.com/user-attachments/assets/9a5933ec-1366-4067-b714-6eddbb3d2cbb" />
 
 ## Requirements
 
