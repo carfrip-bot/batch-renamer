@@ -84,4 +84,3 @@ The executable is in `app/target/release/` (`batch-renamer.exe` on Windows). On 
 | `cargo.exe not found in ...` (from `build.bat`) | Rust is not installed in the default location: edit the `set TC=...` line |
 | Error while downloading crates | No connection, or a proxy/firewall blocking `crates.io` |
 | Changes don't show up in the app | You launched an old executable: rebuild with `cargo build --release` and restart |
-
